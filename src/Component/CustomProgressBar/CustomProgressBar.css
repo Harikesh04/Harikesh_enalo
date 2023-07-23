@@ -1,0 +1,16 @@
+.pagination-container{
+   
+    width: 20vw;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid blue;
+   
+}
+
+.pagination-container div{
+    background: red;
+    height: 100%;
+    border-radius: 20px ;
+  
+    
+}

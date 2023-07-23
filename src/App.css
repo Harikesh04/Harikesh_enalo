@@ -1,0 +1,13 @@
+.home-page {
+
+  height: 100vh;
+  padding: 20px 30px;
+ 
+}
+
+.pagination-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+ 
+}
